@@ -12,6 +12,9 @@
   <br>
 </h2>
 
+### Description
+Program ini melakukan data scrapping ke web https://id.wikipedia.org/wiki/Indonesia_pada_Asian_Games dan pada web itu
+saya mengambil data data mendali tiap Asian Games, Data mendali tiap cabang, dan nama nama atlet bulu tangkis berikut mendalinya
 
 ### Specifications
 
@@ -67,6 +70,70 @@ Preprocessing contohnya :
 - Reference (Library used, etc)
 - Author
 ```
+
+### How to use
+1. Open terminal
+2. Change the dir to where you save the file
+3. Run this program with command -> python scrap.py
+
+Or you can run the Makefile with command "make" if you using Linux environment.
+
+### JSON Structure
+This program will build three JSON file :
+
+1. data.json
+  -total_emas
+    merupakan jumlah mendali emas yang dimiliki Indonesia selama Asian Games
+  -total_perak
+    merupakan jumlah mendali perak yang dimiliki Indonesia selama Asian Games
+  -total_perunggu
+    merupakan jumlah mendali perunggu yang dimiliki Indonesia selama Asian Games
+  -count
+    jumlah data Asian Games yang diikuti oleh Indonesia
+  -data
+    Merupakan sebuah array yang berisi data-data Indonesia di tiap Asian Games
+
+2. data_sports.json
+-total_emas
+  merupakan jumlah mendali emas yang dimiliki Indonesia selama Asian Games
+-total_perak
+  merupakan jumlah mendali perak yang dimiliki Indonesia selama Asian Games
+-total_perunggu
+  merupakan jumlah mendali perunggu yang dimiliki Indonesia selama Asian Games
+-count
+  jumlah data Asian Games yang diikuti oleh Indonesia
+-data
+  Merupakan sebuah array yang berisi data-data Indonesia di tiap Asian Games
+
+3. data_bulu_tangkis.json
+  -name
+    nama dari atlet bulu tangkis
+  -gender
+    gender dari atlet bulu tangkis
+  -emas
+    jumlah mendali emas yang telah ia dapatkan
+  -perak
+    jumlah mendali perak yang telah ia dapatkan
+  -perunggu
+    jumlah mendali perunggu yang telah ia dapatkan
+
+
+### Screenshots
+![alt_text](https://github.com/faizzuns/Seleksi-2018/blob/master/Tugas1/screenshots/data.jpg)
+
+![alt_text](https://github.com/faizzuns/Seleksi-2018/blob/master/Tugas1/screenshots/data_sports.jpg)
+
+![alt_text](https://github.com/faizzuns/Seleksi-2018/blob/master/Tugas1/screenshots/data_bulu_tangkis.jpg)
+
+### Reference
+Library that I used:
+1. BeautifulSoup4 for html parser
+2. json for save the result into .json file
+3. urllib.request to get the html script from the url we want
+
+### Author
+Nama    : <b>Ahmad Faiz Sahupala</b>
+Email   : faiz.sahupala29@gmail.com
 
 <h1 align="center">
   <br>
