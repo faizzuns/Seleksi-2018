@@ -1,0 +1,136 @@
+{
+  "total_emas": 87,
+  "total_perak": 117,
+  "total_perunggu": 203,
+  "count": 16,
+  "data": [
+    {
+      "ajang": "New Delhi 1951",
+      "peringkat": 7,
+      "emas": 0,
+      "perak": 0,
+      "perunggu": 5,
+      "total": 5
+    },
+    {
+      "ajang": "Manila 1954",
+      "peringkat": 11,
+      "emas": 0,
+      "perak": 0,
+      "perunggu": 3,
+      "total": 3
+    },
+    {
+      "ajang": "Tokyo 1958",
+      "peringkat": 14,
+      "emas": 0,
+      "perak": 2,
+      "perunggu": 4,
+      "total": 6
+    },
+    {
+      "ajang": "Jakarta 1962",
+      "peringkat": 2,
+      "emas": 21,
+      "perak": 26,
+      "perunggu": 30,
+      "total": 77
+    },
+    {
+      "ajang": "Bangkok 1966",
+      "peringkat": 6,
+      "emas": 7,
+      "perak": 4,
+      "perunggu": 10,
+      "total": 21
+    },
+    {
+      "ajang": "Bangkok 1970",
+      "peringkat": 4,
+      "emas": 9,
+      "perak": 7,
+      "perunggu": 7,
+      "total": 23
+    },
+    {
+      "ajang": "Teheran 1974",
+      "peringkat": 5,
+      "emas": 3,
+      "perak": 4,
+      "perunggu": 4,
+      "total": 11
+    },
+    {
+      "ajang": "Bangkok 1978",
+      "peringkat": 7,
+      "emas": 8,
+      "perak": 7,
+      "perunggu": 18,
+      "total": 33
+    },
+    {
+      "ajang": "New Delhi 1982",
+      "peringkat": 6,
+      "emas": 4,
+      "perak": 4,
+      "perunggu": 7,
+      "total": 15
+    },
+    {
+      "ajang": "Seoul 1986",
+      "peringkat": 9,
+      "emas": 1,
+      "perak": 5,
+      "perunggu": 4,
+      "total": 10
+    },
+    {
+      "ajang": "Beijing 1990",
+      "peringkat": 7,
+      "emas": 3,
+      "perak": 6,
+      "perunggu": 21,
+      "total": 30
+    },
+    {
+      "ajang": "Hiroshima 1994",
+      "peringkat": 11,
+      "emas": 3,
+      "perak": 12,
+      "perunggu": 11,
+      "total": 26
+    },
+    {
+      "ajang": "Bangkok 1998",
+      "peringkat": 11,
+      "emas": 6,
+      "perak": 10,
+      "perunggu": 11,
+      "total": 27
+    },
+    {
+      "ajang": "Busan 2002",
+      "peringkat": 14,
+      "emas": 4,
+      "perak": 7,
+      "perunggu": 12,
+      "total": 23
+    },
+    {
+      "ajang": "Doha 2006",
+      "peringkat": 22,
+      "emas": 2,
+      "perak": 4,
+      "perunggu": 14,
+      "total": 20
+    },
+    {
+      "ajang": "Guangzhou 2010",
+      "peringkat": 15,
+      "emas": 4,
+      "perak": 9,
+      "perunggu": 13,
+      "total": 26
+    }
+  ]
+}

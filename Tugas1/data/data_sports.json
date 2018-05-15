@@ -1,0 +1,71 @@
+{
+  "total_emas": 43,
+  "total_perak": 46,
+  "total_perunggu": 82,
+  "count": 9,
+  "data": [
+    {
+      "cabang": "Bulu tangkis",
+      "emas": 24,
+      "perak": 24,
+      "perunggu": 39,
+      "total": 87
+    },
+    {
+      "cabang": "Tenis",
+      "emas": 14,
+      "perak": 5,
+      "perunggu": 21,
+      "total": 40
+    },
+    {
+      "cabang": "Perahu naga",
+      "emas": 3,
+      "perak": 3,
+      "perunggu": 0,
+      "total": 6
+    },
+    {
+      "cabang": "Balap sepeda",
+      "emas": 2,
+      "perak": 4,
+      "perunggu": 3,
+      "total": 9
+    },
+    {
+      "cabang": "Weightlfting",
+      "emas": 0,
+      "perak": 4,
+      "perunggu": 12,
+      "total": 16
+    },
+    {
+      "cabang": "Voli pantai",
+      "emas": 0,
+      "perak": 2,
+      "perunggu": 2,
+      "total": 4
+    },
+    {
+      "cabang": "Wushu",
+      "emas": 0,
+      "perak": 2,
+      "perunggu": 2,
+      "total": 4
+    },
+    {
+      "cabang": "Panahan",
+      "emas": 0,
+      "perak": 2,
+      "perunggu": 1,
+      "total": 3
+    },
+    {
+      "cabang": "Bola voli",
+      "emas": 0,
+      "perak": 0,
+      "perunggu": 2,
+      "total": 2
+    }
+  ]
+}
