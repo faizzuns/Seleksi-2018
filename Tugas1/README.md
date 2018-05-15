@@ -119,10 +119,13 @@ This program will build three JSON file :
 
 
 ### Screenshots
+CONTOH DATA MENDALI INDONESIA TIAP ASIAN GAMES
 ![alt_text](https://github.com/faizzuns/Seleksi-2018/blob/master/Tugas1/screenshots/data.jpg)
 
+CONTOH DATA MENDALI TIAP CABANG
 ![alt_text](https://github.com/faizzuns/Seleksi-2018/blob/master/Tugas1/screenshots/data_sports.jpg)
 
+CONTOH DATA MENDALI ATLET BULU TANGKIS
 ![alt_text](https://github.com/faizzuns/Seleksi-2018/blob/master/Tugas1/screenshots/data_bulu_tangkis.jpg)
 
 ### Reference
